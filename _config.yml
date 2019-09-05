@@ -5,6 +5,7 @@ theme                  : "minimal-mistakes-jekyll"
 
 title:              Steve
 bio:                '찾아주셔 주셔서 감사합니다 (Resume,Portfolio,Record,Project)'
+bio1:               'Test'
 description:        "Steve's Blog."
 reading_time:       true
 words_per_minute:   200
