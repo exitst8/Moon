@@ -4,7 +4,7 @@ theme                  : "minimal-mistakes-jekyll"
 #remote_theme           : "mmistakes/minimal-mistakes"
 
 title:              Steve
-bio:                'Wecome to Steve's Blog'
+bio:                'Wecome to Steve Blog'
 bio1:               'Resume / Portfolio / Record / Project'
 description:        "Steve's Blog."
 reading_time:       true
