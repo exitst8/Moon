@@ -9,7 +9,7 @@ bio1:               '세상은 아름다운 거라고..'
 description:        "Steve's Blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/steve_Logo.jpg'
+logo:               'assets/img/steve_gitLogo.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ko-KR"
