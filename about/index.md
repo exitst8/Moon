@@ -27,7 +27,7 @@ comments: false
 * Illustrator
 
 ## Video Skills
-* FinalCupPro
+* FinalCutPro
 
 
 
