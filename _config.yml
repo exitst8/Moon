@@ -4,8 +4,8 @@ theme                  : "minimal-mistakes-jekyll"
 #remote_theme           : "mmistakes/minimal-mistakes"
 
 title:              Steve
-bio:                'Wecome to Steve Blog'
-bio1:               'Resume / Portfolio / Record / Project'
+bio:                '승태는 말했다'
+bio1:               '세상은 아름다운 거라고..'
 description:        "Steve's Blog."
 reading_time:       true
 words_per_minute:   200
