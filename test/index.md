@@ -1,6 +1,6 @@
 ---
 layout: test
-title: All Tests
+title: All Test Lists
 excerpt: "A List of Tests"
 comments: false
 ---
