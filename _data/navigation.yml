@@ -1,10 +1,5 @@
 # Site navigation links
-
-- title: Projects
-  url: /projects/
-
-- title: abc
-  url: /abcs/
+# Navi Bar 에 보여기는 항목 
 
 - title: It
   url: /its/
